@@ -21,7 +21,7 @@ Daremos click en el apartado donde dice "+New" para empezar a escribir el codigo
 ![Donde dar para empezar a escribir el codigo](paso_3.png)
 
 ## PASO 3
-pegaremos el siguiente codigo para poder ejecutarlo 
+pegaremos el siguiente codigo para poder ejecutarlo (Recuerda colocar bien las sangrias del codigo, de lo contrario no se ejecutara correctamente)
 ![Imagen del codigo](paso_4.png)
 
 ## Resultados
@@ -29,6 +29,9 @@ Como resultados tenemos un poligono de 6 lados, el cual es un hexagono, el cual 
 
 
 ![Resultados de la practica](paso_5.png)
+
+- Nota: si queremos crear otro poligono de n cantidad de lados, debemos de modificar en la parte del codigo los lados que deseemos poner, asimismo como el radio que queremos tener
+![Imagen del codigo para cambiar lados](paso_6.png)
 
 
 
